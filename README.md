@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fjavaparser-maven-sample.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fjavaparser-maven-sample?ref=badge_shield)
+
 JavaParser and Maven sample
 ---
 
@@ -18,3 +20,7 @@ How you run this code is up to you, but usually you would start by using an IDE 
 The Maven dependencies may lag behind the official releases a bit.
 
 If you notice some problems with this setup, please open an issue.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fjavaparser-maven-sample.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDIVERGENTGIT%2Fjavaparser-maven-sample?ref=badge_large)
